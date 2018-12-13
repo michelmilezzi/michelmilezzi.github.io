@@ -60,6 +60,11 @@ border-right: 1px solid  rgba(0,0,0,0.15);
     text-decoration: none;
 }
 
+.resume {
+  text-decoration: none;
+  font-size: smaller;
+}
+
 .button.twitter {
   background: #00acee;
 }
@@ -82,6 +87,10 @@ border-right: 1px solid  rgba(0,0,0,0.15);
 
 .button.github{
   background: #403e3e;
+}
+
+.button.gists{
+  background: #525252;
 }
 
 .button.android {
