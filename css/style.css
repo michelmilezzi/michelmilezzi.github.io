@@ -94,6 +94,10 @@ header{
  padding:20px 0;
  margin:0 0 40px 0
 }
+
+header.no-padding{
+  padding: 0;
+ }
 header h1{
  font-size:30px;
  line-height:1.5;
@@ -328,6 +332,9 @@ p {
 }
 .button.gists{
   background: #525252;
+}
+.button.rockat{
+  background: #bc25ca;
 }
 .button.android {
   background: #a4c639;
